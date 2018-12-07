@@ -1,10 +1,10 @@
 {
-  "name": "psl",
+  "name": "@noticeable/psl",
   "version": "1.1.29",
-  "description": "Domain name parser based on the Public Suffix List.",
+  "description": "Domain name parser based on the Public Suffix List (adapted for ES6 module import).",
   "repository": {
     "type": "git",
-    "url": "git@github.com:wrangr/psl.git"
+    "url": "git@github.com:noticeableapp/psl.git"
   },
   "main": "index.js",
   "module": "./dist/psl.esm.js",
